@@ -1,0 +1,11 @@
+create_file_structure
+
+Makefile
+Dockerfile
+
+.env
+.env.example
+.env*
+
+go.mod
+go.sum

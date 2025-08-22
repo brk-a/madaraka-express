@@ -1,7 +1,6 @@
 package utils
 
 import (
-    "bytes"
     qrcode "github.com/skip2/go-qrcode"
 )
 

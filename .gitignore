@@ -9,3 +9,6 @@ Dockerfile
 
 go.mod
 go.sum
+
+api
+node_modules
